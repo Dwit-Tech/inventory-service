@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 
-namespace DwitTech.DotNetCoreApp.WebApi
+namespace DwitTech.InventoryService.WebApi
 {
     public class Program
     {

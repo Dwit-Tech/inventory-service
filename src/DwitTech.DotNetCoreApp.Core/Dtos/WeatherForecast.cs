@@ -1,4 +1,4 @@
-namespace DwitTech.DotNetCoreApp.Core.Dtos
+namespace DwitTech.InventoryService.Core.Dtos
 {
     public class WeatherForecast
     {
